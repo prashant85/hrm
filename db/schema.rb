@@ -59,7 +59,6 @@ ActiveRecord::Schema.define(:version => 20130109122014) do
     t.string   "job_title"
     t.string   "job_specification"
     t.string   "employement_status"
-    t.string   "Job_category"
     t.string   "sub_unit"
     t.string   "location"
   end
